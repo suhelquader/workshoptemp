@@ -11,3 +11,6 @@ plot(1:10, 1:10)
 
 ## yet another
 rnorm(100)
+
+## and one more
+rnorm(20)
